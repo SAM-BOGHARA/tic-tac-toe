@@ -1,4 +1,4 @@
-# 🎮 Multiplayer Tic-Tac-Toe - Deploy in 3 Simple Steps!
+# 🎮 Multiplayer Tic-Tac-Toe
 
 Frontend Deployed Link: https://guileless-valkyrie-05d496.netlify.app
 
